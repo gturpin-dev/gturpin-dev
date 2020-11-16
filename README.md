@@ -26,8 +26,6 @@ Skills: Wordpress, Sass, Prestashop, Ionic (Cordova)
 
 😄 Pronouns: He/Him
 
----
-
 ## &#x1f4c8; GitHub Stats
 
 ![Profile views](https://gpvc.arturio.dev/gturpin-dev)  
@@ -48,7 +46,7 @@ Skills: Wordpress, Sass, Prestashop, Ionic (Cordova)
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gturpin-dev&repo=Bedrock-installeur&theme=radical" />
 </a>
 
----
+## 🔧 Technologies & Tools
 
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
