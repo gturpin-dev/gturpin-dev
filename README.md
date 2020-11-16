@@ -10,9 +10,9 @@
 
 ## 📰 About Me
 
-Passionate about web development, you can find my portfolio [here](https://gturpin.fr).
+**Passionate** about web development, you can find my portfolio [here](https://gturpin.fr).
 
-Skills: Wordpress, Sass, Prestashop, Ionic (Cordova)
+Skills: **Wordpress, Sass, Prestashop, Ionic (Cordova)**
 
 🔭 I’m currently working on **my front-end skills**
 
