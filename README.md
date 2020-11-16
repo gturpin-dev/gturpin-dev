@@ -32,7 +32,7 @@ Skills: Wordpress, Sass, Prestashop, Ionic (Cordova)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gturpin-dev)](https://github.com/gturpin-dev/https://github.com/gturpin-dev&theme=radical)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gturpin-dev&repo=Sass-base)](https://github.com/gturpin-dev/Sass-base&theme=radical)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gturpin-dev&repo=Sass-base)](https://github.com/gturpin-dev/Sass-base&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 ![Profile views](https://gpvc.arturio.dev/gturpin-dev)
 
