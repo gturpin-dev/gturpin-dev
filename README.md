@@ -34,6 +34,23 @@ Skills: Wordpress, Sass, Prestashop, Ionic (Cordova)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gturpin-dev&repo=Sass-base&theme=radical)](https://github.com/gturpin-dev/Sass-base)
 
+<a href="https://github.com/gturpin-dev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gturpin-dev&theme=radical&langs_count=3&line_height=27&count_private=true" alt="gturpin's GitHub Top Languages" />
+</a>
+
+<a href="https://github.com/gturpin-dev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gturpin-dev&show_icons=true&theme=radical" alt="gturpin's GitHub Stats"/>
+</a>
+
+<a href="https://github.com/gturpin-dev/Sass-base">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gturpin-dev&repo=Sass-base&theme=radical" />
+</a>
+
+
+<a href="https://github.com/MartinHeinz/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>  
+
 ![Profile views](https://gpvc.arturio.dev/gturpin-dev)
 
 ---
