@@ -28,6 +28,8 @@ Skills: Wordpress, Sass, Prestashop, Ionic (Cordova)
 
 ---
 
+## &#x1f4c8; GitHub Stats
+
 ![Profile views](https://gpvc.arturio.dev/gturpin-dev)  
 
 <a href="https://github.com/gturpin-dev">
