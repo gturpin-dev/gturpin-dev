@@ -12,7 +12,7 @@
 
 Passionate about web development, you can find my portfolio [here](https://gturpin.fr).
 
-Skills: Wordpress, Sass, Prestashop, Cordova (Ionic)
+Skills: Wordpress, Sass, Prestashop, Ionic (Cordova)
 
 🔭 I’m currently working on **my front-end skills**
 
@@ -20,7 +20,7 @@ Skills: Wordpress, Sass, Prestashop, Cordova (Ionic)
 
 👯 I’m looking to collaborate on open source 
 
-💬 Ask me about **C, Java, Advanced C, HTML, CSS, Bootstrap**
+💬 Ask me about **Wordpress, Sass**
 
 📫 How to reach me: [email](mailto:guillaume.turpin45@gmail.fr) or [website](https://gturpin.fr/contact)
 
