@@ -16,9 +16,9 @@ Skills: **Wordpress, Sass, Prestashop, Ionic (Cordova)**
 
 🔭 I’m currently working on **my front-end skills**
 
-🌱 I’m currently learning Prestashop and Ionic
+🌱 I’m currently learning **Prestashop** and **Ionic**
 
-👯 I’m looking to collaborate on open source 
+👯 I’m looking to collaborate on **open source**
 
 💬 Ask me about **Wordpress, Sass**
 
