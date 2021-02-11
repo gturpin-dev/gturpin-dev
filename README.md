@@ -49,7 +49,7 @@ Skills: **Wordpress, Sass, Prestashop, Ionic (Cordova)**
 ## 🔧 Technologies & Tools
 
 <p align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
   <img src="https://www.iconninja.com/files/166/950/541/coding-prestashop-code-logo-development-icon.png" alt="prestashop" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40"/>
