@@ -51,18 +51,18 @@ Skills: **Wordpress, Sass, Prestashop, Ionic (Cordova)**
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
   <img src="https://www.iconninja.com/files/166/950/541/coding-prestashop-code-logo-development-icon.png" alt="prestashop" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
   <img src="https://p1.hiclipart.com/preview/659/427/821/react-logo-webpack-babel-front-and-back-ends-turquoise-electric-blue-symbol-square-png-clipart.jpg" alt="webpack" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-plain.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/linux/linux-plain.svg" alt="linux" width="40" height="40"/>
   <img src="https://banner2.cleanpng.com/20180414/req/kisspng-arch-linux-installation-btrfs-computer-software-archery-5ad1b76bb2cdd1.7435733015236934197324.jpg" alt="archlinux" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
-  <img src="https://devicon.dev/devicon.git/icons/php/php-plain.svg" alt="php" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/php/php-plain.svg" alt="php" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
 </p>
 
 <p align="center"> 
