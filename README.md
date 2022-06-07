@@ -42,8 +42,12 @@ Skills: **Wordpress, Sass, Prestashop, Ionic (Cordova)**
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gturpin-dev&repo=Sass-base&theme=radical" />
 </a>
 
-<a href="https://github.com/gturpin-dev/Bedrock-installeur">
+<a href="https://github.com/gturpin-dev/wp_installer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gturpin-dev&repo=wp_installer&theme=radical" />
+</a>
+
+<a href="https://github.com/gturpin-dev/PostTypeHandler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gturpin-dev&repo=PostTypeHandler&theme=radical" />
 </a>
 
 ## 🔧 Technologies & Tools
