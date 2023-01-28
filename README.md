@@ -10,19 +10,19 @@
 
 ## 📰 About Me
 
-**Passionate** about web development, you can find my portfolio [here](https://gturpin.fr).
+**Passionate** about web development, clean code and PHP.
 
-Skills: **Wordpress, Sass, Prestashop, Ionic (Cordova)**
+Skills: **WordPress, PHP, Sass**
 
-🔭 I’m currently working on **my front-end skills**
+🔭 I’m currently working on **my back-end skills**
 
-🌱 I’m currently learning **Prestashop** and **Ionic**
+🌱 I’m currently learning/improving **SOLID** and **Design Patterns**
 
 👯 I’m looking to collaborate on **open source**
 
-💬 Ask me about **Wordpress, Sass**
+💬 Ask me about **WordPress, Sass**
 
-📫 How to reach me: [email](mailto:guillaume.turpin45@gmail.fr) or [website](https://gturpin.fr/contact)
+📫 How to reach me: [email](mailto:guillaume.turpin45@gmail.fr) 
 
 😄 Pronouns: He/Him
 
