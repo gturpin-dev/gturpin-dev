@@ -30,15 +30,13 @@ Skills: **WordPress, PHP, Sass**
 
 ![Profile views](https://gpvc.arturio.dev/gturpin-dev)  
 
-<a href="https://github.com/gturpin-dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gturpin-dev&theme=radical&langs_count=3&count_private=true" alt="gturpin's GitHub Top Languages" />
-</a>
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gturpin-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <a href="https://github.com/gturpin-dev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gturpin-dev&show_icons=true&line_height=27&theme=radical" alt="gturpin's GitHub Stats"/>
 </a>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gturpin-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gturpin-dev&theme=radical&hide_border=false)
 
