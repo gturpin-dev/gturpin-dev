@@ -36,11 +36,9 @@ Skills: **WordPress, PHP, Sass**
 
 <a href="https://github.com/gturpin-dev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gturpin-dev&show_icons=true&line_height=27&theme=radical" alt="gturpin's GitHub Stats"/>
-</a>
+</a><br/>
 
-<br/>  
-![](https://github-readme-streak-stats.herokuapp.com/?user=gturpin-dev&theme=radical&hide_border=false)
-<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gturpin-dev&theme=radical&hide_border=false)<br/>
 
 <a href="https://github.com/gturpin-dev/Sass-base">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gturpin-dev&repo=Sass-base&theme=radical" />
