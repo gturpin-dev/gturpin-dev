@@ -52,6 +52,8 @@ Skills: **WordPress, PHP, Sass**
 
 ## 🔧 Technologies & Tools
 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
   <img src="https://www.iconninja.com/files/166/950/541/coding-prestashop-code-logo-development-icon.png" alt="prestashop" width="40" height="40"/>
