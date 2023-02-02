@@ -28,7 +28,7 @@ Skills: **WordPress, PHP, Sass**
 
 ## &#x1f4c8; GitHub Stats
 
-![Profile views](https://gpvc.arturio.dev/gturpin-dev)  
+![Profile views](https://gpvc.arturio.dev/gturpin-dev) ![](https://img.shields.io/badge/Code%20Craftsmanship-Practiced-blueviolet)
 
 ![](https://github-readme-stats.vercel.app/api?username=gturpin-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
@@ -50,44 +50,12 @@ Skills: **WordPress, PHP, Sass**
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gturpin-dev&repo=PostTypeHandler&theme=radical" />
 </a>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=gturpin-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ## 🔧 Technologies & Tools
 
 ![PHP](https://img.shields.io/badge/WordPress-%230073AA.svg?logo=wordpress&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
-  <img src="https://www.iconninja.com/files/166/950/541/coding-prestashop-code-logo-development-icon.png" alt="prestashop" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/ionic/ionic-original.svg" alt="ionic" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  <img src="https://p1.hiclipart.com/preview/659/427/821/react-logo-webpack-babel-front-and-back-ends-turquoise-electric-blue-symbol-square-png-clipart.jpg" alt="webpack" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/linux/linux-plain.svg" alt="linux" width="40" height="40"/>
-  <img src="https://banner2.cleanpng.com/20180414/req/kisspng-arch-linux-installation-btrfs-computer-software-archery-5ad1b76bb2cdd1.7435733015236934197324.jpg" alt="archlinux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/php/php-plain.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
-</p>
-
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/guillaume-turpin-a79586172/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin gturpin" height="30" width="30" />
-  </a>
-  <a href="https://github.com/gturpin-dev" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github gturpin" height="30" width="30" />
-  </a>
-  <a href="https://codepen.io/ThPrGanesha" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="codepen gturpin" height="30" width="30" />
-  </a>
-  <a href="https://gturpin.fr" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="gturpin.fr" height="30" width="30" />
-  </a>
-</p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gturpin-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
