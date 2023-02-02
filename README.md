@@ -38,7 +38,7 @@ Skills: **WordPress, PHP, Sass**
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gturpin-dev&show_icons=true&line_height=27&theme=radical" alt="gturpin's GitHub Stats"/>
 </a>
 
-<br/>
+<br/>  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gturpin-dev&theme=radical&hide_border=false)
 <br/>
 
