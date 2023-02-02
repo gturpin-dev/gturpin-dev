@@ -28,7 +28,7 @@ Skills: **WordPress, PHP, Sass**
 
 ## &#x1f4c8; GitHub Stats
 
-![Profile views](https://gpvc.arturio.dev/gturpin-dev) ![](https://img.shields.io/badge/Code%20Craftsmanship-Practiced-blueviolet)
+![Profile views](https://gpvc.arturio.dev/gturpin-dev) ![](https://img.shields.io/badge/Code%20Craftsmanship-Practiced-blueviolet) ![](https://img.shields.io/badge/Code%20Quality-High-brightgreen)
 
 ![](https://github-readme-stats.vercel.app/api?username=gturpin-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
