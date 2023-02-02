@@ -54,6 +54,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gturpin-dev&repo=PostTypeHandler&theme=radical" />
 </a>
 
+<a href="https://github.com/gturpin-dev/TainixChallenges">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gturpin-dev&repo=TainixChallenges&theme=radical" />
+</a>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gturpin-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
