@@ -42,21 +42,25 @@
 
 ---
 
-<a href="https://github.com/gturpin-dev/Sass-base">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gturpin-dev&repo=OOWPrise&theme=radical" />
-</a>
+<div style="display:flex;align-items:center">
+  <a href="https://github.com/gturpin-dev/OOWPrise">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gturpin-dev&repo=OOWPrise&theme=radical" />
+  </a>
 
-<a href="https://github.com/gturpin-dev/wp_installer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gturpin-dev&repo=wp_installer&theme=radical" />
-</a>
+  <a href="https://github.com/gturpin-dev/wp_installer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gturpin-dev&repo=wp_installer&theme=radical" />
+  </a>
+</div>
 
-<a href="https://github.com/gturpin-dev/PostTypeHandler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gturpin-dev&repo=PostTypeHandler&theme=radical" />
-</a>
+<div style="display:flex;align-items:center">
+  <a href="https://github.com/gturpin-dev/PostTypeHandler">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gturpin-dev&repo=PostTypeHandler&theme=radical" />
+  </a>
 
-<a href="https://github.com/gturpin-dev/TainixChallenges">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gturpin-dev&repo=TainixChallenges&theme=radical" />
-</a>
+  <a href="https://github.com/gturpin-dev/TainixChallenges">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gturpin-dev&repo=TainixChallenges&theme=radical" />
+  </a>
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gturpin-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
