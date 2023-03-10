@@ -43,7 +43,7 @@
 ---
 
 <a href="https://github.com/gturpin-dev/Sass-base">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gturpin-dev&repo=Sass-base&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gturpin-dev&repo=OOWPrise&theme=radical" />
 </a>
 
 <a href="https://github.com/gturpin-dev/wp_installer">
