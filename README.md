@@ -12,11 +12,11 @@
 
 **Passionate** about web development, Clean Code and PHP.
 
-🔧 Skills: **WordPress, PHP, Sass**
+🔧 Skills: **WordPress, Laravel, PHP**
 
 🔭 I’m currently working on **my back-end skills**
 
-🌱 I’m currently learning/improving **SOLID** and **Design Patterns**
+🌱 I’m currently learning/improving **SOLID**, **Laravel** and **Design Patterns**
 
 👯 I’m looking to collaborate on **open source**
 
