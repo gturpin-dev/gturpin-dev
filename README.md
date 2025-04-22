@@ -12,23 +12,13 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=gturpin-dev) ![](https://img.shields.io/badge/Code%20Craftsmanship-Practiced-blueviolet) ![](https://img.shields.io/badge/Code%20Quality-High-brightgreen)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=gturpin-dev&theme=radical&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api?username=gturpin-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gturpin-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=gturpin-dev&theme=radical&hide_border=false)
-
 ---
-<div style="display:flex;align-items:center">
-  <a href="https://github.com/gturpin-dev/PostTypeHandler">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gturpin-dev&repo=PostTypeHandler&theme=radical" />
-  </a>
-
-  <a href="https://github.com/gturpin-dev/TainixChallenges">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gturpin-dev&repo=TainixChallenges&theme=radical" />
-  </a>
-</div>
-
 <div style="display:flex;align-items:center">
   <a href="https://github.com/gturpin-dev/OOWPrise">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gturpin-dev&repo=OOWPrise&theme=radical" />
@@ -36,6 +26,16 @@
 
   <a href="https://github.com/gturpin-dev/wp_installer">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gturpin-dev&repo=wp_installer&theme=radical" />
+  </a>
+</div>
+
+<div style="display:flex;align-items:center">
+  <a href="https://github.com/gturpin-dev/PostTypeHandler">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gturpin-dev&repo=PostTypeHandler&theme=radical" />
+  </a>
+
+  <a href="https://github.com/gturpin-dev/TainixChallenges">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gturpin-dev&repo=TainixChallenges&theme=radical" />
   </a>
 </div>
 
