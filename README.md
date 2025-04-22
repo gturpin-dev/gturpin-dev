@@ -4,31 +4,9 @@
   <samp>
     I'm Guillaume <img src="https://github.com/Romaixn/Romaixn/blob/master/assets/img/hi.gif" width="29px">
     <br><br>
-    :rocket: Full Stack Web Developer From France :rocket:
+    :rocket: PHP Developer From France :rocket:
   </samp>
 </p>
-
-## 📰 About Me
-
-**Passionate** about web development, Clean Code and PHP.
-
-🔧 Skills: **WordPress, Laravel, PHP**
-
-🔭 I’m currently working on **my back-end skills**
-
-🌱 I’m currently learning/improving **SOLID**, **Laravel** and **Design Patterns**
-
-👯 I’m looking to collaborate on **open source**
-
-💬 Ask me about **WordPress, Sass**
-
-📫 How to reach me: [email](mailto:guillaume.turpin45@gmail.fr) 
-
-😄 Pronouns: He/Him
-
-## 💻 Technologies & Tools
-
-![PHP](https://img.shields.io/badge/WordPress-%230073AA.svg?logo=wordpress&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white)
 
 ## &#x1f4c8; GitHub Stats
 
