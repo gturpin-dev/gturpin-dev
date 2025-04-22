@@ -19,6 +19,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gturpin-dev&theme=radical&hide_border=false)
 
 ---
+<div style="display:flex;align-items:center">
+  <a href="https://github.com/gturpin-dev/PostTypeHandler">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gturpin-dev&repo=PostTypeHandler&theme=radical" />
+  </a>
+
+  <a href="https://github.com/gturpin-dev/TainixChallenges">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gturpin-dev&repo=TainixChallenges&theme=radical" />
+  </a>
+</div>
 
 <div style="display:flex;align-items:center">
   <a href="https://github.com/gturpin-dev/OOWPrise">
@@ -27,16 +36,6 @@
 
   <a href="https://github.com/gturpin-dev/wp_installer">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gturpin-dev&repo=wp_installer&theme=radical" />
-  </a>
-</div>
-
-<div style="display:flex;align-items:center">
-  <a href="https://github.com/gturpin-dev/PostTypeHandler">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gturpin-dev&repo=PostTypeHandler&theme=radical" />
-  </a>
-
-  <a href="https://github.com/gturpin-dev/TainixChallenges">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gturpin-dev&repo=TainixChallenges&theme=radical" />
   </a>
 </div>
 
